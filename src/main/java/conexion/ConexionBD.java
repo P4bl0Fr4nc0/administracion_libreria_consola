@@ -39,7 +39,7 @@ public class ConexionBD {
         try {
             if (conexion != null) {
                 conexion.close();
-              //  System.out.println("La conexión se ha cerrado con exito");
+
 
             }
 

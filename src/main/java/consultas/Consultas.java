@@ -78,8 +78,6 @@ public class Consultas {
         catch(SQLException e) {
             System.out.println("Error de conexion a la base de datos:" + e.getMessage());
         }
-
-
     }
 
     public void consultarClientes(){

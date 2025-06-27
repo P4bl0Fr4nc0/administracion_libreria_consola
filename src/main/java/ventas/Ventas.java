@@ -12,7 +12,6 @@ public class Ventas {
     conexion = new ConexionBD();
     }
 
-
     public  double obtenerPrecio(String nombre){
 
 

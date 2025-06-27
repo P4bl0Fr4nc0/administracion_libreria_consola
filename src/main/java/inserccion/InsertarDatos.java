@@ -14,7 +14,6 @@ public class InsertarDatos {
     Scanner entrada  = new Scanner(System.in);
 
 
-
     public InsertarDatos (){
         conexion = new ConexionBD();
     }

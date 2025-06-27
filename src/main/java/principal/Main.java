@@ -121,7 +121,6 @@ public class Main {
                         else {
                             opcion = false;            }
 
-
                     } while(opcion);
 
                     double total = 0;
